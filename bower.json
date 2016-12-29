@@ -1,0 +1,22 @@
+{
+  "name": "angular-todo",
+  "description": "angular-todo2",
+  "main": "index.js",
+  "authors": [
+    "Alex Miller"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/alexmiller64/angular-todo2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1"
+  }
+}
