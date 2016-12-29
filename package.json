@@ -1,0 +1,19 @@
+{
+  "name": "angular-todo",
+  "version": "1.0.0",
+  "description": "angular-todo2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmiller64/angular-todo2.git"
+  },
+  "author": "Alex Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmiller64/angular-todo2/issues"
+  },
+  "homepage": "https://github.com/alexmiller64/angular-todo2#readme"
+}
